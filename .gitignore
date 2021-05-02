@@ -162,5 +162,8 @@ gradle-app.setting
 .idea/workspace.xml
 .idea/modules.xml
 .idea/jarRepositories.xml
+.idea/modules/BE.iml
+.idea/compiler.xml
+.idea/side-dish.iml
 
 BE/src/main/resources/oauth.properties
